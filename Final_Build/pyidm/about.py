@@ -7,7 +7,6 @@ Technology for enlightening us with knowledge & providing us a platform to perfo
 
 Developers,
 Akshay Bannatti
-2019-2020 Batch
 CSE Department
 Sathyabama Institute of Science & Technology
 Chennai, Tamil Nadu, India"""
